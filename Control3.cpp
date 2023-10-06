@@ -31,6 +31,17 @@ int main() {
     for (int i = 0; i < 10; i++) {
         cout << "Index of 23 is " << Transposition(arr, 23, 10) << endl;
     }
-
+    /*
+        Index of 23 is 9
+        Index of 23 is 8
+        Index of 23 is 7
+        Index of 23 is 6
+        Index of 23 is 5
+        Index of 23 is 4
+        Index of 23 is 3
+        Index of 23 is 2
+        Index of 23 is 1
+Index of 23 is 0
+    */
     return 0;
 }
