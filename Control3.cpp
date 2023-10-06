@@ -41,7 +41,7 @@ int main() {
         Index of 23 is 3
         Index of 23 is 2
         Index of 23 is 1
-Index of 23 is 0
+        Index of 23 is 0
     */
     return 0;
 }
